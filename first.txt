@@ -2,4 +2,5 @@ gitの練習
 基本的なワークフロー
 ・git add
 ・git commint
-・git remove
+・git rm
+・git status
